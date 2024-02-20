@@ -146,7 +146,6 @@
     - This state data must be visible somewhere in the app OUTSIDE of the form
       - Example: The page says "Hello USERNAME" somewhere in the content and the modal form allows the user to change the value of USERNAME
 
-
 ## Additional
 - having more UI or UX "complexity" than required
   - show sufficiently complex understanding
