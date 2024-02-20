@@ -147,13 +147,10 @@
       - Example: The page says "Hello USERNAME" somewhere in the content and the modal form allows the user to change the value of USERNAME
 
 
-## Extra 
-
+## Additional
 - having more UI or UX "complexity" than required
   - show sufficiently complex understanding
   - benefit the User Experience (UX)
-  - 
-## Additional
 - not use HTML-based form validation (including type="email", use type="text" instead)
 - not use float unless wrapping text around an image
 - not use tables or table-layouts unless showing a table of data
