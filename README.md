@@ -1,6 +1,6 @@
 ## Goal
 
-- Create a React-based Single Page Application (SPA) using Vite
+- A React-based Single Page Application (SPA) using Vite
 - This web app appear "complete"
   - No fake screens/views/pages
   - No lorem ipsum-like text
