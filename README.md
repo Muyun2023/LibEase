@@ -60,7 +60,7 @@
 
 - have an identifiable color palette for your site that goes well together
 - Different areas of the "pages" of your SPA MUST appear visually distinct and have whitespace and boundaries that are sufficient and helpful for the user
-- The app must appear to be "complete"
+- The app appear to be "complete"
   - No placeholder text
   - No placeholder images
   - No links to non-existent content
