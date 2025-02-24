@@ -1,9 +1,7 @@
 ## Goal
 
 - Create a React-based Single Page Application (SPA) using Vite
-- This web app will be about a topic of your choice
-  - This can be informational, a game, whatever, your choice
-- This web app MUST appear "complete"
+- This web app appear "complete"
   - No fake screens/views/pages
   - No lorem ipsum-like text
   - Appropriately complete visuals
@@ -21,7 +19,7 @@
 
 - Multiple "pages" for the SPA that replace most/all of the main content
   - Navigation and branding can remain between pages, your choice
-  - consist of at least 3 "pages", but I expect most projects will have more pages than 3 in order to demonstrate all features
+  - consist of at least 3 "pages", will have more pages than 3 in order to demonstrate all features
 - A navigation that allows the user to move from one "page" to another in the SPA
   - A user never has to use the browser "Back" button to use your app
   - A user never has to reload/refresh the page to use your app
