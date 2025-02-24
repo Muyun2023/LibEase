@@ -164,7 +164,7 @@
 - not use any additional JS libraries or external JS
   - NO react-router, NO libraries of components, etc
   - Such libraries are not bad, but this project is to demonstrate YOUR skills
-- not use alert(), prompt(), or other blocking JS that wasn't introduced in class
+- not use alert(), prompt(), or other blocking JS
 - not use redirects
 - not use cookies, localStorage, sessionStorage, or other client-side storage.  Store any data in Component state for this project.
 - not modify the DOM in any way outside of using React
