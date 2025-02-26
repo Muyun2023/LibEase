@@ -118,4 +118,6 @@ Currently available official plugins:
 - [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) (Babel-based Fast Refresh)
 - [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) (SWC-based Fast Refresh)
 
+© Muyun Ji. Confidential and Proprietary. All Rights Reserved.
+
 
