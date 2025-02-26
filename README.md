@@ -5,7 +5,7 @@
   - No fake screens/views/pages
   - No lorem ipsum-like text
   - Appropriately complete visuals
-- This web app will have certain required and a selection of optional features (see below)
+- This web app have certain required and a selection of optional features (see below)
 - The web app will be tested by running:
   - `npm install` (once per project)
   - `npm run build`
